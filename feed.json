@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "markgo.org",
     "description": "",
-    "home_page_url": "https://markgo.org",
-    "feed_url": "https://markgo.org/feed.json",
+    "home_page_url": "https://www.markgo.org",
+    "feed_url": "https://www.markgo.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mark Go"

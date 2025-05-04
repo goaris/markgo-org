@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>markgo.org</title>
-    <link href="https://markgo.org/feed.xml" rel="self" />
-    <link href="https://markgo.org" />
+    <link href="https://www.markgo.org/feed.xml" rel="self" />
+    <link href="https://www.markgo.org" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Mark Go</name>
     </author>
-    <id>https://markgo.org</id>
+    <id>https://www.markgo.org</id>
 
 </feed>

@@ -1157,6 +1157,7 @@ textarea {
   max-width: var(--page-width);
   margin-left: auto;
   margin-right: auto;
+  margin-top: .01vh;
   padding-left: var(--page-margin);
   padding-right: var(--page-margin);
 }
